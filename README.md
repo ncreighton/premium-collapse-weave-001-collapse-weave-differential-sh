@@ -1,0 +1,2 @@
+# premium-collapse-weave-001-collapse-weave-differential-sh
+Stop guessing your shrinkage percentages. The Collapse Weave Differential Shrinkage Guide gives you a precise, repeatable system to calculate and track differential shrinkage ratios in your collapse weave projects.  This Notion template eliminates the trial-and-error by providing a structured workspace to log yarn pairs, calculate shrinkage differe
